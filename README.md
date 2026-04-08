@@ -26,9 +26,9 @@
 ## 👇 Projects
 | Repo | Description |
 | :--- | :--- |
-| [![ShrimpROV](https://img.shields.io/github/stars/iowqi/ShrimpROV?label=ShrimpROV&logo=github&style=flat)](https://github.com/iowqi/ShrimpROV) | 仿生龙虾风格 ROV：（机械结构部分），面向水下观测与轻度作业。 |
-| [![PowerRuneSimulator](https://img.shields.io/github/stars/iowqi/PowerRuneSimulator?label=PowerRuneSimulator&logo=github&style=flat)](https://github.com/iowqi/PowerRuneSimulator) | 基于 UE5 的能量机关仿真，支持投影仪仿真，便于 RM 视觉与预测调试。 |
-| [![visionKB](https://img.shields.io/github/stars/iowqi/visionKB?label=visionKB&logo=github&style=flat)](https://github.com/iowqi/visionKB) | 视觉知识库（Docusaurus），聚合参赛与工程向的视觉文档与笔记。 |
+| [![ShrimpROV](https://img.shields.io/github/stars/iowqi/ShrimpROV?label=ShrimpROV&logo=github&style=flat)](https://github.com/iowqi/ShrimpROV) | Bionic🍤lobster - inspired ROV (mechanical structure): underwater observation and light-duty tasks. |
+| [![PowerRuneSimulator](https://img.shields.io/github/stars/iowqi/PowerRuneSimulator?label=PowerRuneSimulator&logo=github&style=flat)](https://github.com/iowqi/PowerRuneSimulator) | UE5 power-rune simulator with projector simulation for RoboMaster vision and prediction tuning. |
+| [![visionKB](https://img.shields.io/github/stars/iowqi/visionKB?label=visionKB&logo=github&style=flat)](https://github.com/iowqi/visionKB) | Vision knowledge base (Docusaurus): competition- and engineering-oriented vision docs and notes. |
 > Check out my [GitHub Repositories](https://github.com/iowqi?tab=repositories) for full source code and detailed documentation.
 
 ## 🛠️ Tech Stack
