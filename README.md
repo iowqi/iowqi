@@ -29,7 +29,7 @@
 | [![ShrimpROV](https://img.shields.io/github/stars/iowqi/ShrimpROV?label=ShrimpROV&logo=github&style=flat)](https://github.com/iowqi/ShrimpROV) | Bionic🍤lobster - inspired ROV (mechanical structure): underwater observation and light-duty tasks. |
 | [![VectorROV](https://img.shields.io/github/stars/iowqi/VectorROV?label=VectorROV&logo=github&style=flat)](https://github.com/iowqi/VectorROV) | Tethered underwater ROV: 4× vectored thrusters, dual panoramic vision → NDI/VR, STM32H7 + CAN firmware, MuJoCo & SB3 sim (graduation design). |
 | [![PowerRuneSimulator](https://img.shields.io/github/stars/iowqi/PowerRuneSimulator?label=PowerRuneSimulator&logo=github&style=flat)](https://github.com/iowqi/PowerRuneSimulator) | UE5 power-rune simulator with projector simulation for RoboMaster vision and prediction tuning. |
-| [![visionKB](https://img.shields.io/github/stars/iowqi/visionKB?label=visionKB&logo=github&style=flat)](https://github.com/iowqi/visionKB) | Vision knowledge base (Docusaurus): competition- and engineering-oriented vision docs and notes. |
+| [![visionKB](https://img.shields.io/github/stars/typical-motion/visionKB?label=visionKB&logo=github&style=flat)](https://github.com/iowqi/visionKB) | Vision knowledge base (Docusaurus): competition- and engineering-oriented vision docs and notes. |
 > Check out my [GitHub Repositories](https://github.com/iowqi?tab=repositories) for full source code and detailed documentation.
 
 ## 🛠️ Tech Stack
